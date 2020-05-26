@@ -4,4 +4,4 @@ double(2,2);
 }
 
 int double(int a, int b){
-return a*c;}
+return a*b;}
