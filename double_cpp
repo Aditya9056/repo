@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(){
+double(2,2);
+}
+
+int double(int a, int b){
+return a*c;}
