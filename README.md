@@ -1,1 +1,2 @@
-Read Me file
+# Codeigniter-Blog
+This is a fully functional blog made with codeigniter.
